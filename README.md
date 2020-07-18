@@ -20,8 +20,8 @@ I am Jonathan Yombo Bosemwa (Joboy) from Lubumbashi, Democratic Republic of the 
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring logo" width="24">](https://spring.io/) | [<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" alt="nest logo" width="24">](https://nestjs.com/) | [<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="laravel logo" width="24">](https://laravel.com/) | [<img src="https://external-content.duckduckgo.com/ip3/codeigniter.com.ico" alt="codeigniter logo" width="24">](https://codeigniter.com/) 
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring logo" width="24">](https://spring.io/) | [<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" alt="nest logo" width="24">](https://nestjs.com/) | [<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="laravel logo" width="24">](https://laravel.com/) | [<img src="https://external-content.duckduckgo.com/ip3/codeigniter.com.ico" alt="codeigniter logo" width="24">](https://codeigniter.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django logo" width="24">](https://www.djangoproject.com/)
+|---|---|---|---|---|
 
 ### Tools 🛠️
 
