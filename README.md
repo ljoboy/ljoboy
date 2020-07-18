@@ -13,8 +13,8 @@ I am Jonathan Yombo Bosemwa (Joboy) from Lubumbashi, Democratic Republic of the 
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" alt="elixir logo" width="24">](https://elixir-lang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)
-|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" alt="elixir logo" width="24">](https://elixir-lang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby logo" width="24">](https://www.ruby-lang.org/en/)
+|---|---|---|
 
 ### Frameworks 🧰
 
