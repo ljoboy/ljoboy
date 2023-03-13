@@ -51,3 +51,8 @@ You can find and get touch with me on these accounts!
 ![Joboy's github stats](https://github-readme-stats.vercel.app/api?username=ljoboy&show_icons=true&hide_border=true)
 
 <br><br><br>
+
+  [![Stats](https://github-readme-stats.vercel.app/api?username=ljoboy&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ljoboy&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/ljoboy/ljoboy/blob/master/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ljoboy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ljoboy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
